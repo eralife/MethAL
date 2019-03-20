@@ -1,5 +1,5 @@
 # Site settings
-title: MethAL: Methodology in Artifial Life
+title: "MethAL: Methodology in Artifial Life"
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
